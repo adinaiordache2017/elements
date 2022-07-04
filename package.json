@@ -141,7 +141,8 @@
     "trim-newlines": "^3.0.1",
     "glob-parent": ">=5.1.2",
     "nth-check": ">=2.0.1",
-    "trim": ">=0.0.3"
+    "trim": ">=0.0.3",
+    "parse-url": "6.0.1"
   },
   "storybook-deployer": {
     "gitUsername": "Tradeshift Elements",
